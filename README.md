@@ -1,7 +1,7 @@
 # Astro Starter Kit: Minimal
 
 ```sh
-npm create astro@latest -- --template minimal
+npm create astro@latest -- --template JonVaz/astro-base
 ```
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
